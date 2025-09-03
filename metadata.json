@@ -1,0 +1,5 @@
+{
+  "name": "Times Table Fluency",
+  "description": "An intelligent, adaptive learning app for adults to build fluency with multiplication tables using retrieval practice, enhanced feedback, and personalized analytics.",
+  "requestFramePermissions": []
+}
